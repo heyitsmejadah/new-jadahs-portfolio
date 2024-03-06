@@ -56,6 +56,11 @@ nav ul li a {
     border: 1px solid #000000;
 }
 
+.project img {
+    width: 300px;
+    height: auto;
+}
+
 #resume {
     background-color: #3a620c; 
     color: #ffffff; 
