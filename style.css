@@ -53,22 +53,42 @@ nav ul li a {
     background-color: #113805; 
     color: #ffffff; 
     padding: 46.5px; 
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
 }
 
 #resume {
     background-color: #3a620c; 
     color: #ffffff; 
     padding: 46.5px; 
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
+}
+
+#skills,
+#soft-skills {
+  text-align: center;
+  display: inline-block;
+  margin: 0 10px; 
+}
+
+#skills ul,
+#soft-skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+#skills li,
+#soft-skills li {
+  display: inline-block;
+  margin-right: 10px;
 }
 
 #contact {
     background-color: #698e12; 
     color: #ffffff; 
     padding: 46.5px; 
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
 }
+
 section {
     padding: 40px;
 }
